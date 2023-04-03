@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milindnair" alt="milindnair" /></a> </p>
 
-- 🌱 I’m currently learning **React JS , Node JS**
+- 🌱 I’m currently working on  **React JS , Node JS**,TensorFlow 
 
 - 📫 How to reach me **milindnair261003@gmail.com**
 
